@@ -19,17 +19,21 @@ A list of Java obfuscators, obfuscated samples and benchmarks.
 
 ( Pass, Fail, Error, Unknown[No output,etc.] )
 
-| Obfuscator                                                         | Test#1  | Test#2   | Time  |
-|--------------------------------------------------------------------|---------|----------|-------|
-| [None](https://www.java.com/#LOL)                                  | PPPPPPP | PPPPPPPP | 27ms  |
-| [Allatori](https://www.allatori.com/)                              | PPPPPPP | FPFEEPPF | 54ms  |
-| [Stringer](https://jfxstore.com/stringer/)                         | PPPPPPP | PPPPEPPP | 92ms  |
-| [ZKM](https://zelix.com/klassmaster/index.html)                    | PPPPPPP | FPPEEEUP | 51ms  |
-| [ProGuard](https://github.com/Guardsquare/proguard/)               | PPPPPPP | FPPEEEUP | 26ms  |
-| [Skidfuscator](https://github.com/skidfuscatordev)                 | PPPPPPP | FPPPPFPP | 734ms |
-| [superblaubeere27](https://github.com/superblaubeere27/obfuscator) | PPPPPPP | FPPPEPPP | 47ms  |
-| [Radon3](https://github.com/ItzSomebody/radon)                     | EEPPEFE | FPFEEPE  | E     |
-
+| Obfuscator                                                         | Test#1  | Test#2   | Performance | Size  |
+|--------------------------------------------------------------------|---------|----------|-------------|-------|
+| [None](https://www.java.com/#LOL)                                  | PPPPPPP | PPPPPPPP | 27ms        | 29KB  | Some of my personal views :P (You find it!)
+| [Allatori](https://www.allatori.com/)                              | PPPPPPP | FPFEEPPF | 54ms        | 27KB  | Best for lazy people. Nearly no configuration required.
+| [Stringer](https://jfxstore.com/stringer/)                         | PPPPPPP | PPPPEPPP | 92ms        | 306KB | Neat compability. Good for Spring & Android.
+| [ZKM](https://zelix.com/klassmaster/index.html)                    | PPPPPPP | FPPEEEUP | 51ms        | 79KB  | = ProGuardPlusObf
+| [ProGuard](https://github.com/Guardsquare/proguard/)               | PPPPPPP | FPPEEEUP | 26ms        | 15KB  | Rather an optimizer than an obfuscator.
+| [Skidfuscator](https://github.com/skidfuscatordev)                 | PPPPPPP | FPPPPFPP | 734ms       | 118KB | Good for skidders. Hard to reverse. Too slow.
+| [superblaubeere27](https://github.com/superblaubeere27/obfuscator) | PPPPPPP | FPPPEPPP | 47ms        | 223KB | Tradition never dies.
+| [Radon3](https://github.com/ItzSomebody/radon)                     | EEPPEFE | FPFEEPEF | E           | 269KB | Crappy indeed.
+| [Bozar](https://github.com/vimasig/Bozar)                          | PPPPPPP | FPFEEPPF | 201ms       | 513KB | Nothing special.
+| [Caesium](https://github.com/sim0n/Caesium/)                       | PPPPPFP | FFPPPPPP | 50ms        | 174KB | Interesting with zip bomb. But patchable with Recaf.
+| [Scuti](https://github.com/netindev/scuti)                         | EEPPPPP | FPFEEPEF | 867ms       | 151KB | Interesting with throw exploit. Painful 2 configure.
+| [BranchLock](https://branchlock.net/)                              | PPPPPPP | FPFEEPFF | 65ms        | 66KB  | What if it's FOSS...
+| [Neon](https://github.com/MoofMonkey/NeonObf)                      | PPPPPPP | PPFPPPEP | 7439ms      | 53KB  | Maybe tooooo slow. Not recommended.
 
 ## Tests
 
