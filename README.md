@@ -35,6 +35,7 @@ A list of Java obfuscators, obfuscated samples and benchmarks.
 | [BranchLock](https://branchlock.net/)                              | PPPPPPP | FPFEEPFF | 65ms        | 66KB  | What if it's FOSS...
 | [Neon](https://github.com/MoofMonkey/NeonObf)                      | PPPPPPP | PPFPPPEP | 7439ms      | 53KB  | Maybe tooooo slow. Not recommended.
 | [Ambien](https://github.com/iiiiiiiris/Ambien)                     | EEPPPEP | FPPEEPUF | 28ms        | 56KB  | Zip crasher crashes Recaf. Impressive.
+| [qProtect-Lite](https://mdma.dev/)                 | PPPPPPP | FPPPEPPP | 69ms       | 118KB | 
 
 ## Tests
 
