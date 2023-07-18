@@ -36,6 +36,14 @@ A list of Java obfuscators, obfuscated samples and benchmarks.
 | [Neon](https://github.com/MoofMonkey/NeonObf)                      | PPPPPPP | PPFPPPEP | 7439ms      | 53KB  | Maybe tooooo slow. Not recommended.
 | [Ambien](https://github.com/iiiiiiiris/Ambien)                     | EEPPPEP | FPPEEPUF | 28ms        | 56KB  | Zip crasher crashes Recaf. Impressive.
 
+Obfuscators that meets one of the following conditions goes here:
+- We don't have a copy of, and haven't yet answered (or refused) our request to provide us with an example.
+- Requested a DMCA takedown.
+- Unmaintained or don't have an email in their intro page, and we are unable to run.
+```
+JNIC, DashO, nProtect
+```
+
 ## Tests
 
 ~~RTFSC~~
