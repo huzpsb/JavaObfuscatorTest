@@ -36,10 +36,10 @@ A list of Java obfuscators, obfuscated samples and benchmarks.
 | [BranchLock](https://branchlock.net/)                              | PPPPPPP | FPFEEPFF | 65ms        | 66KB  | What if it's FOSS...
 | [Neon](https://github.com/MoofMonkey/NeonObf)                      | PPPPPPP | PPFPPPEP | 7439ms      | 53KB  | Maybe tooooo slow. Not recommended.
 | [Ambien](https://github.com/iiiiiiiris/Ambien)                     | EEPPPEP | FPPEEPUF | 28ms        | 56KB  | Zip crasher crashes Recaf. Impressive.
-| [qProtect-Lite](https://mdma.dev/)                 | PPPPPPP | FPPPEPPP | 69ms       | 139KB | 
-| [zelix KlassMaster20.0.3](https://zelix.com/)                 | PPPPPPP | FPPPEPPP | 54ms       | 83.39KB | heavy
-| [BranchLock Pro](https://branchlock.net/)                              | PPPPPPP | FPPPEPFF | Crashed        | 256.22KB  | Maybe it is Perfect protection i think as a obfuscator
-| [Eskid](https://baidu.com/deadth)                              | PPPPEPP | FPPPEPEP | 530ms        | 166.29KB  | Maybe it is cool.For fun.
+| [qProtect-Lite](https://mdma.dev/)                                 | PPPPPPP | FPPPEPPP | 69ms        | 139KB | 
+| [zelix KlassMaster20.0.3](https://zelix.com/)                      | PPPPPPP | FPPPEPPP | 54ms        | 83KB  | heavy
+| [BranchLock Pro](https://branchlock.net/)                          | PPPPPPP | FPPPEPFF | E           | 256KB | Maybe it is Perfect protection i think as a obfuscator
+| [Eskid](https://baidu.com/deadth)                                  | PPPPEPP | FPPPEPEP | 530ms       | 166KB | Maybe it is cool.For fun.
 
 Obfuscators that meets one of the following conditions goes here:
 - We don't have a copy of, and haven't yet answered (or refused) our request to provide us with an example.
