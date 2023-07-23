@@ -22,6 +22,7 @@ A list of Java obfuscators, obfuscated samples and benchmarks.
 | Obfuscator                                                         | Test#1  | Test#2   | Performance | Size  |
 |--------------------------------------------------------------------|---------|----------|-------------|-------|
 | [None](https://www.java.com/#LOL)                                  | PPPPPPP | PPPPPPPP | 27ms        | 29KB  | Some of my personal views :P (You find it!)
+| [JNIC-3.5.1](https://jnic.dev/)                                    | PPPPPPP | FPPPEPPP | 481ms       | 89KB  | JNIC 3.5.1 with build-in flowObf and StringObf enabled.
 | [OpenJNIC](https://www.blackspigot.com/threads/openjnic.173922/)   | PPPPPPP | FPPPEPPP | 28ms        | 304KB | Too good to be actually used.
 | [Allatori](https://www.allatori.com/)                              | PPPPPPP | FPFEEPPF | 54ms        | 27KB  | Best for lazy people. Nearly no configuration required.
 | [Stringer](https://jfxstore.com/stringer/)                         | PPPPPPP | PPPPEPPP | 92ms        | 306KB | Neat compability. Good for Spring & Android.
@@ -46,7 +47,7 @@ Obfuscators that meets one of the following conditions goes here:
 - Requested a DMCA takedown.
 - Unmaintained or don't have an email in their intro page, and we are unable to run.
 ```
-JNIC, DashO, nProtect
+DashO, nProtect
 ```
 
 ## Tests

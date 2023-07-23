@@ -44,7 +44,7 @@ public class Main {
         }
         System.out.print("Test 1.2: Cross ");
         try {
-            new Sub().run();
+            new Top().run();
         } catch (Throwable t) {
             System.out.println("ERROR");
         }
