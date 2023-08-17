@@ -23,7 +23,7 @@ A list of Java obfuscators, obfuscated samples and benchmarks.
 |--------------------------------------------------------------------|---------|----------|-------------|-------|
 | [None](https://www.java.com/#LOL)                                  | PPPPPPP | PPPPPPPP | 27ms        | 29KB  | Some of my personal views :P (You find it!)
 | [JNIC-3.5.1](https://jnic.dev/)                                    | PPPPPPP | FPPPEPPP | 481ms       | 89KB  | JNIC 3.5.1 with build-in flowObf and StringObf enabled.
-| [OpenJNIC](https://www.blackspigot.com/threads/openjnic.173922/)   | PPPPPPP | FPPPEPPP | 28ms        | 304KB | Too good to be actually used.
+| [OpenJNIC](https://www.blackspigot.com/threads/openjnic.173922/)   | PPPPPPP | FPPPEPPP | 708ms        | 304KB | Too good to be actually used.
 | [Allatori](https://www.allatori.com/)                              | PPPPPPP | FPFEEPPF | 54ms        | 27KB  | Best for lazy people. Nearly no configuration required.
 | [Stringer](https://jfxstore.com/stringer/)                         | PPPPPPP | PPPPEPPP | 92ms        | 306KB | Neat compability. Good for Spring & Android.
 | [ZKM](https://zelix.com/klassmaster/index.html)                    | PPPPPPP | FPPEEEUP | 51ms        | 79KB  | = ProGuardPlusObf
