@@ -23,7 +23,7 @@ A list of Java obfuscators, obfuscated samples and benchmarks.
 |--------------------------------------------------------------------|---------|----------|-------------|-------|
 | [None](https://www.java.com/#LOL)                                  | PPPPPPP | PPPPPPPP | 27ms        | 29KB  | Some of my personal views :P (You find it!)
 | [j2cc](https://java2cc.github.io/)                                 | PPPPPPP | PPPPPPPP | 712ms       | 180KB |
-| [j2cc](https://java2cc.github.io/) with heavy obfuscation          | PPPPPPP | PPPPPPPP | 172ms       | 304KB |
+| [j2cc with heavy obfuscation](https://java2cc.github.io/)          | PPPPPPP | PPPPPPPP | 172ms       | 304KB |
 | [JNIC-3.5.1](https://jnic.dev/)                                    | PPPPPPP | FPPPEPPP | 481ms       | 89KB  | JNIC 3.5.1 with build-in flowObf and StringObf enabled.
 | [OpenJNIC](https://www.blackspigot.com/threads/openjnic.173922/)   | PPPPPPP | FPPPEPPP | 28ms        | 304KB | Too good to be actually used.
 | [native-obfuscator(win cmake)](https://github.com/radioegor146/native-obfuscator)   | PPPPPPP | PPPPPPPP | 1597ms        | 120KB | Very compatible, but has a relatively broken running speed.
