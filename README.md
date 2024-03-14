@@ -22,6 +22,8 @@ A list of Java obfuscators, obfuscated samples and benchmarks.
 | Obfuscator                                                         | Test#1  | Test#2   | Performance | Size  |
 |--------------------------------------------------------------------|---------|----------|-------------|-------|
 | [None](https://www.java.com/#LOL)                                  | PPPPPPP | PPPPPPPP | 27ms        | 29KB  | Some of my personal views :P (You find it!)
+| [j2cc](https://java2cc.github.io/)                                 | PPPPPPP | PPPPPPPP | 712ms       | 180KB |
+| [j2cc](https://java2cc.github.io/) with heavy obfuscation          | PPPPPPP | FPPPPEPP | 305ms       | 400KB |
 | [JNIC-3.5.1](https://jnic.dev/)                                    | PPPPPPP | FPPPEPPP | 481ms       | 89KB  | JNIC 3.5.1 with build-in flowObf and StringObf enabled.
 | [OpenJNIC](https://www.blackspigot.com/threads/openjnic.173922/)   | PPPPPPP | FPPPEPPP | 28ms        | 304KB | Too good to be actually used.
 | [native-obfuscator(win cmake)](https://github.com/radioegor146/native-obfuscator)   | PPPPPPP | PPPPPPPP | 1597ms        | 120KB | Very compatible, but has a relatively broken running speed.
@@ -43,7 +45,7 @@ A list of Java obfuscators, obfuscated samples and benchmarks.
 | [zelix KlassMaster20.0.3](https://zelix.com/)                      | PPPPPPP | FPPPEPPP | 54ms        | 83KB  | heavy
 | [BranchLock Pro](https://branchlock.net/)                          | PPPPPPP | FPPPEPFF | E           | 256KB | Maybe it is Perfect protection i think as a obfuscator
 | [Eskid](https://baidu.com/deadth)                                  | PPPPEPP | FPPPEPEP | 530ms       | 166KB | Maybe it is cool.For fun.
-| [ClassGuard](https://zenofx.com/classguard)                      | PPPPPPP | PPPPEPPP | 36ms        | 2820KB | Interesting AES Encryption class.
+| [ClassGuard](https://zenofx.com/classguard)                        | PPPPPPP | PPPPEPPP | 36ms        | 2820KB | Interesting AES Encryption class.
 
 Obfuscators that meets one of the following conditions goes here:
 - We don't have a copy of, and haven't yet answered (or refused) our request to provide us with an example.
