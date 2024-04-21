@@ -26,14 +26,14 @@ A list of Java obfuscators, obfuscated samples and benchmarks.
 | [j2cc with heavy obfuscation](https://java2cc.github.io/)          | PPPPPPP | PPPPPPPP | 172ms       | 304KB |
 | [JNIC-3.5.1](https://jnic.dev/)                                    | PPPPPPP | FPPPEPPP | 481ms       | 89KB  | JNIC 3.5.1 with build-in flowObf and StringObf enabled.
 | [OpenJNIC](https://www.blackspigot.com/threads/openjnic.173922/)   | PPPPPPP | FPPPEPPP | 28ms        | 304KB | Too good to be actually used.
-| [native-obfuscator(win cmake)](https://github.com/radioegor146/native-obfuscator)   | PPPPPPP | PPPPPPPP | 1597ms        | 120KB | Very compatible, but has a relatively broken running speed.
+| [native-obfuscator(win cmake)](https://github.com/radioegor146/native-obfuscator)   | PPPPPPP | PPPPPPPP | 1597ms      | 120KB | Very compatible, but has a relatively broken running speed.
 | [Allatori](https://www.allatori.com/)                              | PPPPPPP | FPFEEPPF | 54ms        | 27KB  | Best for lazy people. Nearly no configuration required.
 | [Stringer](https://jfxstore.com/stringer/)                         | PPPPPPP | PPPPEPPP | 92ms        | 306KB | Neat compability. Good for Spring & Android.
 | [ZKM](https://zelix.com/klassmaster/index.html)                    | PPPPPPP | FPPEEEUP | 51ms        | 79KB  | = ProGuardPlusObf
 | [ProGuard](https://github.com/Guardsquare/proguard/)               | PPPPPPP | FPPEEEUP | 26ms        | 15KB  | Rather an optimizer than an obfuscator.
 | [Skidfuscator](https://github.com/skidfuscatordev)                 | PPPPPPP | FPPPPFPP | 734ms       | 118KB | Good for skidders. Hard to reverse. Too slow.
 | [SkidfuscatorEnterprise](https://skidfuscator.dev)                 | PPPPPPP | FPPPPEPP | 4274ms      | 158KB | Tooooo slow.
-| [SkidfuscatorEnterpriseLeak](https://github.com/InkerBot/one-obfuscator/) | PEPPPPP | FPFPPEPP | 1035ms      | 373KB | Faster, but still slow.
+| [SkidfuscatorEnterpriseLeak](https://github.com/InkerBot/one-obfuscator/) | PPPPPPP | FPFEEEPP | 10055ms     | 373KB | More and more slow.
 | [superblaubeere27](https://github.com/superblaubeere27/obfuscator) | PPPPPPP | FPPPEPPP | 47ms        | 223KB | Tradition never dies.
 | [Radon3](https://github.com/ItzSomebody/radon)                     | EEPPEFE | FPFEEPEF | E           | 269KB | Crappy indeed.
 | [Bozar](https://github.com/vimasig/Bozar)                          | PPPPPPP | FPFEEPPF | 201ms       | 513KB | Nothing special.
