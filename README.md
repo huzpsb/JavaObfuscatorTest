@@ -45,7 +45,7 @@ A list of Java obfuscators, obfuscated samples and benchmarks.
 | [ProGuard](https://github.com/Guardsquare/proguard/)                              | PPPPPPP | FPPEEEUP | 26ms        | 15KB   | Rather an optimizer than an obfuscator.
 | [Skidfuscator](https://github.com/skidfuscatordev)                                | PPPPPPP | FPPPPFPP | 734ms       | 118KB  | Good for skidders. Hard to reverse. Too slow.
 | [SkidfuscatorEnterprise](https://skidfuscator.dev)                                | PPPPPPP | FPPPPEPP | 4274ms      | 158KB  | Tooooo slow.
-| [SkidfuscatorEnterpriseLeak](https://github.com/InkerBot/one-obfuscator/)         | PEPPPPP | FPFPPEPP | 1035ms      | 373KB  | Faster, but still slow.
+| [SkidfuscatorEnterpriseLeak](https://github.com/InkerBot/one-obfuscator/)         | PPPPPPP | FPFPEEEF | 10055ms     | 138KB  | More and more slow
 | [superblaubeere27](https://github.com/superblaubeere27/obfuscator)                | PPPPPPP | FPPPEPPP | 47ms        | 223KB  | Tradition never dies.
 
 Obfuscators that meets one of the following conditions goes here:
