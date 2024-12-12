@@ -89,7 +89,7 @@ Do not forget to add the obfuscator to the list above.
 ## DMCA
 
 If you are the owner of one of the obfuscators and you want me to remove it from this repository, please contact me by
-opening an issue or by sending an email to `dmca_jot@huzpsb.eu.org`.
+opening an issue.
 
 ## Disclaimer
 
