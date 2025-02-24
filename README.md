@@ -23,6 +23,8 @@ A list of Java obfuscators, obfuscated samples and benchmarks.
 |-----------------------------------------------------------------------------------|---------|----------|-------------|---------|
 | [None](https://www.java.com/#LOL)                                                 | PPPPPPP | PPPPPPPP | 27ms        | 29KB    | Some of my personal views :P (You find it!)
 | [Grunt](https://github.com/SpartanB312/Grunt)                                     | EEEEPEE | EPPEEEPE | E           | 124KB   | Seriously?
+| [dProtect](https://github.com/open-obfuscator/dProtect)                           | PPPPPPP | FPPEEEUP | 27ms        | 20KB    | Good fork of ↓, fair obf for a ProGuard fork
+| [ProGuard](https://github.com/Guardsquare/proguard/)                              | PPPPPPP | FPPEEEUP | 26ms        | 15KB    | Rather an optimizer than an obfuscator.
 | [Radon3](https://github.com/ItzSomebody/radon)                                    | EEPPEFE | FPFEEPEF | E           | 269KB   | Crappy indeed.
 | [Bozar](https://github.com/vimasig/Bozar)                                         | PPPPPPP | FPFEEPPF | 201ms       | 513KB   | Nothing special.
 | [Caesium](https://github.com/sim0n/Caesium/)                                      | PPPPPFP | FFPPPPPP | 50ms        | 174KB   | Interesting with zip bomb. But patchable with Recaf.
@@ -42,7 +44,6 @@ A list of Java obfuscators, obfuscated samples and benchmarks.
 | [Allatori](https://www.allatori.com/)                                             | PPPPPPP | FPFEEPPF | 54ms        | 27KB    | Best for lazy people. Nearly no configuration required.
 | [Stringer](https://jfxstore.com/stringer/)                                        | PPPPPPP | PPPPEPPP | 92ms        | 306KB   | Neat compability. Good for Spring & Android.
 | [ZKM](https://zelix.com/klassmaster/index.html)                                   | PPPPPPP | FPPEEEUP | 51ms        | 79KB    | = ProGuardPlusObf
-| [ProGuard](https://github.com/Guardsquare/proguard/)                              | PPPPPPP | FPPEEEUP | 26ms        | 15KB    | Rather an optimizer than an obfuscator.
 | [Skidfuscator](https://github.com/skidfuscatordev)                                | PPPPPPP | FPPPPFPP | 734ms       | 118KB   | Good for skidders. Hard to reverse. Too slow.
 | [SkidfuscatorEnterprise](https://skidfuscator.dev)                                | PPPPPPP | FPPPPEPP | 4274ms      | 158KB   | Tooooo slow.
 | [SkidfuscatorEnterpriseLeak](https://github.com/InkerBot/one-obfuscator/)         | PPPPPPP | FPFPEEEF | 10055ms     | 138KB   | More and more slow
