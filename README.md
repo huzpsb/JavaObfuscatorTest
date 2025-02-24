@@ -22,6 +22,7 @@ A list of Java obfuscators, obfuscated samples and benchmarks.
 | Obfuscator                                                                        | Test#1  | Test#2   | Performance | Size    |
 |-----------------------------------------------------------------------------------|---------|----------|-------------|---------|
 | [None](https://www.java.com/#LOL)                                                 | PPPPPPP | PPPPPPPP | 27ms        | 29KB    | Some of my personal views :P (You find it!)
+| [Grunt](https://github.com/SpartanB312/Grunt)                                     | EEEEPEE | EPPEEEPE | E           | 124KB   | Seriously?
 | [Radon3](https://github.com/ItzSomebody/radon)                                    | EEPPEFE | FPFEEPEF | E           | 269KB   | Crappy indeed.
 | [Bozar](https://github.com/vimasig/Bozar)                                         | PPPPPPP | FPFEEPPF | 201ms       | 513KB   | Nothing special.
 | [Caesium](https://github.com/sim0n/Caesium/)                                      | PPPPPFP | FFPPPPPP | 50ms        | 174KB   | Interesting with zip bomb. But patchable with Recaf.
