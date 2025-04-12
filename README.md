@@ -23,7 +23,7 @@ A list of Java obfuscators, obfuscated samples and benchmarks.
 | Obfuscator                                                                        | Test#1  | Test#2   | Performance | Size    |
 |-----------------------------------------------------------------------------------|---------|----------|-------------|---------|
 | [None](https://www.java.com/#LOL)                                                 | PPPPPPP | PPPPPPPP | 27ms        | 29KB    | Some of my personal views :P (You find it!)
-| [Grunt](https://github.com/SpartanB312/Grunt)                                     | PPPPPPP | FPFPEPPE | 102ms       | 843KB   | Bigger is better.
+| [Grunt](https://github.com/SpartanB312/Grunt)                                     | PPPPPPP | FPFPEPPE | 160ms       | 843KB   | Bigger is better.
 | [dProtect](https://github.com/open-obfuscator/dProtect)                           | PPPPPPP | FPFEEEUP | 31ms        | 21KB    | Good fork of ↓, fair obf for a ProGuard fork
 | [ProGuard](https://github.com/Guardsquare/proguard/)                              | PPPPPPP | FPPEEEUP | 26ms        | 15KB    | Rather an optimizer than an obfuscator.
 | [Radon3](https://github.com/ItzSomebody/radon)                                    | EEPPEFE | FPFEEPEF | E           | 269KB   | Crappy indeed.
