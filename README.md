@@ -47,7 +47,7 @@ A list of Java obfuscators, obfuscated samples and benchmarks.
 | [ZKM](https://zelix.com/klassmaster/index.html)                                   | PPPPPPP | FPPEEEUP | 51ms        | 79KB    | = ProGuardPlusObf
 | [Skidfuscator](https://github.com/skidfuscatordev)                                | PPPPPPP | FPPPPFPP | 734ms       | 118KB   | Good for skidders. Hard to reverse. Too slow.
 | [SkidfuscatorEnterprise](https://skidfuscator.dev)                                | PPPPPPP | FPPPPEPP | 4274ms      | 158KB   | Tooooo slow.
-| [SkidfuscatorEnterpriseLeak](https://github.com/InkerBot/one-obfuscator/)         | PPPPPPP | FPFPEEEF | 10055ms     | 138KB   | More and more slow
+| [SkidfuscatorEnterpriseLeak](https://github.com/Sk1dfuscator/skidfuscator-src)    | PPPPPPP | FPFPEEEF | 10055ms     | 138KB   | More and more slow
 | [superblaubeere27](https://github.com/superblaubeere27/obfuscator)                | PPPPPPP | FPPPEPPP | 47ms        | 223KB   | Tradition never dies.
 | [SafeNet](https://cpl.thalesgroup.com/software-monetization)                      | PPEPPPP | FPPEFEPE | 239ms       | 21865KB | Require add jvm args `-noverify` to run.
 
