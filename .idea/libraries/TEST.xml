@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="TEST">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/bench/bin/TEST.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
