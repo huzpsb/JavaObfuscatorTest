@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="sample">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sample/safenet.zip!/" />
+      <root url="jar://$PROJECT_DIR$/sample/native-obfuscator-win-cmake.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sample/ZKM20.0.3 NOREFOBF.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sample/Ambien.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sample/j2cc_with_obfuscation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sample/qProtect.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sample/JNIC-3.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sample/Scuti.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sample/Neon.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sample/Grunt.zip!/" />
+      <root url="jar://$PROJECT_DIR$/sample/Bozar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sample/superblaubeere27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sample/SkidfuscatorEnterprise.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sample/SkidfuscatorEnterpriseLeak.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sample/OpenJNIC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sample/Radon.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sample/ZKM.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sample/eskid.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sample/Allatori.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sample/branchlock.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sample/j2cc_compiled_only.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sample/ClassGuard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sample/dProtect.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sample/ProGuard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sample/Skidfuscator.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sample/Stringer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sample/Caesium.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

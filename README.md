@@ -39,6 +39,7 @@ A list of Java obfuscators, obfuscated samples and benchmarks.
 | [Eskid](https://baidu.com/deadth)                                                 | PPPPEPP | FPPPEPEP | 530ms       | 166KB   | Maybe it is cool.For fun.
 | [ClassGuard](https://zenofx.com/classguard)                                       | PPPPPPP | PPPPEPPP | 36ms        | 2820KB  | Interesting AES Encryption class.
 | [JNIC-3.5.1](https://jnic.dev/)                                                   | PPPPPPP | FPPPEPPP | 481ms       | 89KB    | JNIC 3.5.1 with build-in flowObf and StringObf enabled.
+| [JNIC-3.7.0](https://jnic.dev/)                                                   | PPPPPPP | FPPPEPPP | 470ms       | 77KB    | JNIC 3.7.0 with build-in flowObf and StringObf enabled.
 | [OpenJNIC](https://www.blackspigot.com/threads/openjnic.173922/)                  | PPPPPPP | FPPPEPPP | 28ms        | 304KB   | Too good to be actually used.
 | [native-obfuscator(win cmake)](https://github.com/radioegor146/native-obfuscator) | PPPPPPP | PPPPPPPP | 1597ms      | 120KB   | Very compatible, but has a relatively broken running speed.
 | [j2cc](https://java2cc.github.io/)                                                | PPPPPPP | PPPPPPPP | 172ms       | 304KB   | Easily cracked with proper bps. Even weaker
