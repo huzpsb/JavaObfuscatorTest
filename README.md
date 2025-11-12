@@ -51,6 +51,7 @@ A list of Java obfuscators, obfuscated samples and benchmarks.
 | [SkidfuscatorEnterpriseLeak](https://github.com/Sk1dfuscator/skidfuscator-src)    | PPPPPPP | FPFPEEEF | 10055ms     | 138KB   | More and more slow
 | [superblaubeere27](https://github.com/superblaubeere27/obfuscator)                | PPPPPPP | FPPPEPPP | 47ms        | 223KB   | Tradition never dies.
 | [SafeNet](https://cpl.thalesgroup.com/software-monetization)                      | PPEPPPP | FPPEFEPE | 239ms       | 21865KB | Require add jvm args `-noverify` to run.
+| [JarGuardPro](https://www.jarguardpro.cn/)                                        | PPPPPPP | PPPPPPPP | 317ms       | 671KB | Provides Ollvm level control flow flattening.
 
 Obfuscators that meets one of the following conditions goes here:
 
