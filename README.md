@@ -35,7 +35,7 @@ A list of Java obfuscators, obfuscated samples and benchmarks.
 | [Ambien](https://github.com/iiiiiiiris/Ambien)                                    | EEPPPEP | FPPEEPUF | 28ms        | 56KB    | Zip crasher crashes Recaf. Impressive.
 | [qProtect-Lite](https://mdma.dev/)                                                | PPPPPPP | FPPPEPPP | 69ms        | 139KB   | It's like ZKM but worse
 | [zelix KlassMaster20.0.3](https://zelix.com/)                                     | PPPPPPP | FPPPEPPP | 54ms        | 83KB    | Heavy
-| [BranchLock Pro](https://branchlock.net/)                                         | PPPPPPP | FPPPEPFF | E           | 256KB   | Maybe it is Perfect protection i think as a obfuscator
+| [BranchLock Pro](https://branchlock.net/)                                         | PPPPPPP | FPPPEPFF | E           | 256KB   | Maybe it is Perfect protection i think as a obfuscator for script kiddos
 | [Eskid](https://baidu.com/deadth)                                                 | PPPPEPP | FPPPEPEP | 530ms       | 166KB   | Maybe it is cool.For fun.
 | [ClassGuard](https://zenofx.com/classguard)                                       | PPPPPPP | PPPPEPPP | 36ms        | 2820KB  | Interesting AES Encryption class.
 | [JNIC-3.5.1](https://jnic.dev/)                                                   | PPPPPPP | FPPPEPPP | 481ms       | 89KB    | JNIC 3.5.1 with build-in flowObf and StringObf enabled.
@@ -51,7 +51,7 @@ A list of Java obfuscators, obfuscated samples and benchmarks.
 | [SkidfuscatorEnterpriseLeak](https://github.com/Sk1dfuscator/skidfuscator-src)    | PPPPPPP | FPFPEEEF | 10055ms     | 138KB   | More and more slow
 | [superblaubeere27](https://github.com/superblaubeere27/obfuscator)                | PPPPPPP | FPPPEPPP | 47ms        | 223KB   | Tradition never dies.
 | [SafeNet](https://cpl.thalesgroup.com/software-monetization)                      | PPEPPPP | FPPEFEPE | 239ms       | 21865KB | Require add jvm args `-noverify` to run.
-| [JarGuardPro](https://www.jarguardpro.cn/)                                        | PPPPPPP | PPPPPPPP | 317ms       | 671KB | Provides Ollvm level control flow flattening.
+| [JarGuardPro](https://www.jarguardpro.cn/)                                        | PPPPPPP | PPPPPPPP | 317ms       | 671KB | Skid of scuti. Online only. 
 
 Obfuscators that meets one of the following conditions goes here:
 
